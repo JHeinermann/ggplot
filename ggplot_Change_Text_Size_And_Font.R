@@ -1,10 +1,10 @@
 # How to change ggplot font type and font size:
 # Heinermann, Janosch; 2022-02-24
 
-# When making plots in R, often times the letters are too small if you export a plot. 
-# Also the text size often varies between plots in your word document. Therefore
+# When making plots in R, often the letters are too small if you export a plot. 
+# Also the text size often varies between plots in your word document. Therefore,
 # it is smart to just export a plot where all the text sizes are always equal.
-# It could also be, that you want to change the text font (Schriftart).
+# It could also be that you want to change the text font (Schriftart).
 # This script should give you some advise on how to maintain the text size of plots and 
 # how to change the font of a plot. We first start by changing the font:
 
